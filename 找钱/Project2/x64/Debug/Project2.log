@@ -1,0 +1,6 @@
+﻿  源.cpp
+D:\暂存\Project2\Project2\源.cpp(7,42): warning C4474: printf: 格式字符串中传递的参数太多
+      D:\暂存\Project2\Project2\源.cpp(7,42):
+      占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  
+  Project2.vcxproj -> D:\暂存\Project2\x64\Debug\10.05 (2).exe
