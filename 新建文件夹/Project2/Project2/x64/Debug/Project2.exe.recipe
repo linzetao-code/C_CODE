@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
   <ProjectOutputs>
@@ -8,4 +9,16 @@
   <ContentFiles />
   <SatelliteDlls />
   <NonRecipeFileRefs />
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\林泽涛\source\repos\新建文件夹\Project2\x64\Debug\Project2.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+>>>>>>> 892b4dadfec879b3e0cb83ebda886a008576fe13
 </Project>

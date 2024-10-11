@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿LINK : fatal error LNK1168: 无法打开 D:\学习C语言\C_CODE\Project4\x64\Debug\Project4.exe 进行写入
+=======
+﻿LINK : fatal error LNK1168: 无法打开 D:\学习C语言\C_CODE\Project4\x64\Debug\Project4.exe 进行写入
+>>>>>>> 892b4dadfec879b3e0cb83ebda886a008576fe13
