@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "计算时差第二版", "计算时差第二版\计算时差第二版.vcxproj", "{50FA136A-D9FD-41C8-82CA-460B3A8411F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50FA136A-D9FD-41C8-82CA-460B3A8411F7}.Debug|x64.ActiveCfg = Debug|x64
+		{50FA136A-D9FD-41C8-82CA-460B3A8411F7}.Debug|x64.Build.0 = Debug|x64
+		{50FA136A-D9FD-41C8-82CA-460B3A8411F7}.Debug|x86.ActiveCfg = Debug|Win32
+		{50FA136A-D9FD-41C8-82CA-460B3A8411F7}.Debug|x86.Build.0 = Debug|Win32
+		{50FA136A-D9FD-41C8-82CA-460B3A8411F7}.Release|x64.ActiveCfg = Release|x64
+		{50FA136A-D9FD-41C8-82CA-460B3A8411F7}.Release|x64.Build.0 = Release|x64
+		{50FA136A-D9FD-41C8-82CA-460B3A8411F7}.Release|x86.ActiveCfg = Release|Win32
+		{50FA136A-D9FD-41C8-82CA-460B3A8411F7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {837D99B2-098B-44DC-BB9E-F9DE133A1602}
+	EndGlobalSection
+EndGlobal
