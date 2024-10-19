@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\学习C语言\C_CODE\身高体重换算\身高体重换算\源.cpp(9,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  身高体重换算.vcxproj -> D:\学习C语言\C_CODE\身高体重换算\x64\Debug\身高体重换算.exe
